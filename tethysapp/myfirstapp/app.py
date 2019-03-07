@@ -8,7 +8,7 @@ class Myfirstapp(TethysAppBase):
 
     name = 'Myfirstapp'
     index = 'myfirstapp:home'
-    icon = 'myfirstapp/images/icon.gif'
+    icon = 'myfirstapp/images/220px-Basketball.png'
     package = 'myfirstapp'
     root_url = 'myfirstapp'
     color = '#096247'
