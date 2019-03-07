@@ -11,7 +11,7 @@ class Myfirstapp(TethysAppBase):
     icon = 'myfirstapp/images/icon.gif'
     package = 'myfirstapp'
     root_url = 'myfirstapp'
-    color = '#c0392b'
+    color = '#096247'
     description = 'Place a brief description of your app here.'
     tags = ''
     enable_feedback = False
